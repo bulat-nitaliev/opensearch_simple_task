@@ -1,0 +1,4 @@
+fastapi[all]
+opensearch-py
+faker
+python-dotenv
